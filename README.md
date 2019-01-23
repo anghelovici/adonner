@@ -1,5 +1,5 @@
  
-<code>need:object:quantity:localisation</code>
+<code style=text-align:center>need:object:quantity:localisation</code>
 <code>have:object:quantity:localisation</code>
 <br><br><br>
 
