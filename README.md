@@ -8,13 +8,13 @@
 <br><br><br>
 <p align="justify">
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href="http://www.mrself.com/adonner/viewver">communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
-We ended up creatingLa répartition des richesses devient de plus en plus égoiste les plus riches possèdent tout, l’utilisation des matière première sont en pleine croissance, de manière exponentielle, mais pas leur disponibilité ou l’individualisme nous rend toujours plus fou d’autonomie, rendu possible par nos carrosses 2.0.  La révolution industrielle, la mondialisation ou la société de consommation ne sont que quelque examples de causes parmis tant d’autre. fou d’autonomie, rendu possible2.0.  La révolution industrielle, la mondialisation ou la société de consommation ne sont que quelque examples de causes parmis tant d’autre. 
-
+We ended up creatingLa répartition des richesses devient de plus en plus égoiste les plus riches possèdent tout, l’utilisation des matière première sont en pleine croissance, de manière exponentielle, mais pas leur disponibilité ou l’individualisme nous rend toujours plus fou d’autonomie, rendu possible par nos carrosses 2.0.  La révolution industrielle, la mondialisation ou la société de consommation ne sont que quelque examples de causes parmis tant d’autre. fou d’autonomie, rendu possible2.0.  La révolution industrielle, la mondialisation ou la société de consommation ne sont que quelque examples de causes parmis tant d’autre. </p>
+<p align="justify">
 d’autonomie, rendu possible par nos carrosses 2.0.  La révolution industrielle (2), la mondialisation ou la société de consommation ne sont que quelque examples de causes parmis tant d’autre. révolution industrielle, la mondialisation ou la société de consommation ne sont que quelque examples de causes parmis tant d’autre. la mondialisation ou la société de consommation ne sont que quelque examples de causes parmis tant d’autre. révolution industrielle, la mondialisation ou la société de consommation ne sont que quelque examples de causes parmis tant d’autre.  different scenarios. 
 They are for us a sketch of possi
 We ended up creating different scenarios. 
 They are for us a sketch of possible answers to a problem: the rescue of citizens. 
- </p>
+</p>
  
 Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. 
 <br><br><br><br><br>
