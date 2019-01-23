@@ -55,18 +55,18 @@ le, pour source, des médécin, philosphe ou scientifique. Ce courant de penser 
 <br>
 
 <ul>
-<li>
+<ol>
 (1) Kerala student work for the flooder - for manipulation 2001
- </li>
- <li>
+ </ol>
+ <ol>
 (2) Link for the best anyway
-   </li>
- <li>
+   </ol>
+ <ol>
 (3) amour et princesse utopia 
-     </li>
-  <li>
+     </ol>
+  <ol>
 (4) Decl mec de la puta - journal de l’amérique latine
-   </li>
+   </ol>
 
 
 
