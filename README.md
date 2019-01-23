@@ -33,7 +33,7 @@ le, pour source, des médécin, philosphe ou scientifique. Ce courant de penser 
 
  <p align="center">
 <code>
-264°6.40km:flagey >351°1.31km:Louise >63°10.77km:chatelain >213°8.94km:montparnasse 
+264°6.40km:flagey >351°1.31km:Louise >63°10.77km:chatelain >213°8.94km:montparnasse >264°6.40km:flagey >351°1.31km:Louise >63°10.77km:chatelain >213°8.94km:montparnasse 
 </code>
  </p>
  
