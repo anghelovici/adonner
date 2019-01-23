@@ -4,13 +4,7 @@
 <code>need:object:quantity:localisation</code><br>
 <code>have:object:quantity:localisation</code>
 </p>
-
-Github repository for UVINT155 student projects
-
-INT 155 : Fablab ou comment concevoir à peu près tout...
-
-https://portail.telecom-bretagne.eu/portal/pls/portal/pkg_df.programmes.SHOW_FICHE?p_id_mod_er=24424
-
+d
 <br><br><br>
 <p align="justify">
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
