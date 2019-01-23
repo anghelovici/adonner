@@ -1,5 +1,5 @@
  
-<code style=text-align:center>need:object:quantity:localisation</code>
+<code style='text-align:center'>:object:quantity:localisation</code>
 <code>have:object:quantity:localisation</code>
 <br><br><br>
 
@@ -11,7 +11,7 @@ They are for us a sketch of possible answers to a problem: the rescue of citizen
 <BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. 
 <br><br><br>
 ![MacDown logo](img/1.png)
-<br>
+<br>need
 <br><br>
 
 sons maintenant dans un monde qui est dit de malade. Nous n’avons pas eut l’opportunité de décider. Cette homme n’a jamais demandé quoi que ce soit et pourtant lui seul pourra résolver les problèm Ce courant de penser n’avaient en aucun cas pour but de sauver l’humanité et pourtantt,  
