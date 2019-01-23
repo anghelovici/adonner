@@ -52,4 +52,13 @@ qui aurais-pu être plus radicale que Haussman? n’est que le franc succès d�
 
 le, pour source, des médécin, philosphe ou scientifique. Ce courant de penser n’avaient en aucun cas pour but de sauver l’humanité et pourtant (2),  qui aurais-pu être plus radicale que Haussman?
 
+<br>
+
+<br>
+(1) Kerala student work for the flooder - for manipulation 2001
+(2) Link for the best anyway
+(3) amour et princesse utopia 
+(4) Decl mec de la puta - journal de l’amérique latine
+
+
 
