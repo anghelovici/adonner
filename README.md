@@ -1,8 +1,8 @@
  <p align="center">
-test
-</p>
-<code  align="center">:object:quantity:localisation</code>
+<code>:object:quantity:localisation</code>
 <code>have:object:quantity:localisation</code>
+</p>
+
 <br><br><br>
 
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
