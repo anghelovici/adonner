@@ -16,7 +16,7 @@ We ended up creating different scenarios.
 They are for us a sketch of possible answers to a problem: the rescue of citizens. 
  </p>
  
-<BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. 
+Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. 
 <br><br><br>
 ![MacDown logo](img/1.png)
 <br>need
@@ -39,7 +39,7 @@ le, pour source, des médécin, philosphe ou scientifique. Ce courant de penser 
 
 <br><br><br>
 ![MacDown logo](img/2.png)
-<br><br><br><br>
+<br><br><br>
 
 qui aurais-pu être plus radicale que Haussman? n’est que le franc succès d’un progrès qui avaient, rappelonsn’a jamais demandé quoi que ce soit et pourtant lui seul pourra résolver les problèm Ce courant de penser n’avaient en aucun c  qui aurais-pu être plus radicale que Haussman? n’est que le franc succès d’un progrès qui avaient, rappelonsn’a jamais demandé quoi que ce soit et pourtant lui seul pourra résolver les problèm Ce courant de penser n’avaient en aucun cas pour but de sauver l’humanité et pourtant,  qui aurais-pu être plus radicale que Haussman? n’est que le franc
 
