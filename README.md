@@ -13,6 +13,9 @@ implanter théoréme de djikersta ou google map
 IL RESTE UNE QUESTION, RECEVOIR ET ENVOYER DES SMS
 
 PARIS, BRUXELLES, REFRESH TOUTE LES HEURES
+
+LE SONDAGE
+OU LA BOTTE DE FOIN
 <br><br><br>
 <p align="justify">
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href="http://www.mrself.com/adonner/viewver">communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
