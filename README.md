@@ -8,6 +8,8 @@
 
 PLUTOT QUE 10 APPEL POUR PLANIFIER, LA, 1 TEXTO<br>
 LA DESORIENTATION
+
+implanter théoréme de djikersta ou google map
 <br><br><br>
 <p align="justify">
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href="http://www.mrself.com/adonner/viewver">communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
