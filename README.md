@@ -5,7 +5,7 @@
 <code>have:object:quantity:localisation</code>
 </p>
 
-
+AJOUTER LA  NOTION DU TEMPS + DJIKERSA
 PLUTOT QUE 10 APPEL POUR PLANIFIER, LA, 1 TEXTO<br>
 LA DESORIENTATION
 
