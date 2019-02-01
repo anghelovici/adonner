@@ -12,7 +12,24 @@
 Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laisser libre court à l'imagination, cela peut aller de l'application mobile à l'application bien plus performant comme celui de google map par example. Adonner est une application autonome de serveur, elle possède des entrées puis une sortie.. Elle règle les équations d'échange. Le client est lui simple visualiseur. On peut très bien penser un simple renvoie de numéro de téléphone jusqu'à des cartes militaires.
 
 L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet.
-
+<pre>
+  L          TE
+    A       A
+      C    V
+       R A
+       DOU
+       LOU
+      REUSE
+      QUE TU
+      PORTES
+    ET QUI T'
+    ORNE O CI
+     VILISÉ
+    OTE-  TU VEUX
+     LA    BIEN
+    SI      RESPI
+            RER       - Apollinaire
+</pre>
 
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
 We ended up creating different scenarios. 
