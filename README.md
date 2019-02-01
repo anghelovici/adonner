@@ -21,40 +21,6 @@ They are for us a sketch of possible answers to a problem: the rescue of citizen
 <BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. </p>
  <br><br>
   ![MacDown logo](example/9.png)
- <pre>
- ** ADONNER REQUEST**
-HAVE(2):ZDB/48.874110864704605/2.296158636504515/3/?/object/5
-object:object
-find:20 request for this object
-quantity:20
----------------------
-0:u win
----------------------
-number:0
-id:AHR
-life:1->0
-dist:1.32004735326778
----------------------
-1:u win
----------------------
-number:14
-id:BRM
-life:1->0
-dist:0.3387221462495232
----------------------
-(2): i&u death
----------------------
-number:13
-id:OVM
-life:1->0
-dist:0.882718714753627
----------------------
-**request it's over**
-road_life:,0,0,0
-road:0,14,13
-u accomplish:3
-goal:20->17
-ITS OVER FUCKING BITCH
-,0,0,0
-</pre>
+
+
 
