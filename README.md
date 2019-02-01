@@ -4,6 +4,7 @@
 <code>have:object:quantity:localisation</code>
  </p>
 <br><br><br>
+
  <p align="justify">
 1.accumuler les demandes dans une bdd: 1.adonner trie les demandes en fonction de l'objet recherché, de la quantité ainsi que de sa localisation
 
@@ -12,7 +13,7 @@
 3.trauire spacialement la liaison, l'application fait un premier trie (le notre) basé sur un chemin, ou étoile (voir plus bas)
 
 Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laisser libre court à l'imagination, cela peut aller de l'application mobile sms à l'application bien plus performant comme celui de google map par example. Adonner est une application autonome de serveur, elle possède des entrées puis une sortie.. Elle règle les équations d'échange. Le client est lui simple visualiseur. On peut très bien penser un simple renvoie de numéro de téléphone jusqu'à des cartes militaires.
-
+</p>
 L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet. Nous rendons disponible un système comme uber..
 
 La bdd peut devenir un réell sondage à l'échelle d'un pays puis on peut ensuite terasser le territoire. On peut imaginer un objet dans le channal comme des objets, ainsi l'application devient un genre de chercheur d'aiguille dans une botte de foin. PRENDRE DES BBD ET LES TRADUIRE INSTANTANEMENT
