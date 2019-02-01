@@ -55,6 +55,9 @@ ITS OVER FUCKING BITCH
 ,0,0,0
 </pre>
 
+![MacDown logo](example/6.png)
+ ![MacDown logo](img/7.png)
+
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
 We ended up creating different scenarios. 
 They are for us a sketch of possi
@@ -62,8 +65,7 @@ We ended up creating different scenarios.
 They are for us a sketch of possible answers to a problem: the rescue of citizens. 
 <BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. 
 <br><br><br>
-![MacDown logo](example/6.png)
- ![MacDown logo](img/7.png)
+
  Bois de Boulogn Paris XVI et Capital
 <br>example
 <br><br>
