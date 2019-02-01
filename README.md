@@ -90,12 +90,6 @@ qui aurais-pu être plus radicale que Haussman? n’est que le franc succès d�
 
 le, pour source, des médécin, philosphe ou scientifique. Ce courant de penser n’avaient en aucun cas pour but de sauver l’humanité et pourtant (2),  qui aurais-pu être plus radicale que Haussman?
 
-<br><br><br>
-![MacDown logo](img/2.png)
-<br><br><br><br>
-
-qui aurais-pu être plus radicale que Haussman? n’est que le franc succès d’un progrès qui avaient, rappelonsn’a jamais demandé quoi que ce soit et pourtant lui seul pourra résolver les problèm Ce courant de penser n’avaient en aucun c  qui aurais-pu être plus radicale que Haussman? n’est que le franc succès d’un progrès qui avaient, rappelonsn’a jamais demandé quoi que ce soit et pourtant lui seul pourra résolver les problèm Ce courant de penser n’avaient en aucun cas pour but de sauver l’humanité et pourtant,  qui aurais-pu être plus radicale que Haussman? n’est que le franc
-
 le, pour source, des médécin, philosphe ou scientifique. Ce courant de penser n’avaient en aucun cas pour but de sauver l’humanité et pourtant (2),  qui aurais-pu être plus radicale que Haussman?
 qui aurais-pu être plus radicale que Haussman? n’est que le franc succès d’un progrès qui avaient, rappelonsn’a jamais demandé quoi que ce soit et pourtant lui seul pourra résolver les problèm Ce courant de penser n’avaient en aucun c  qui aurais-pu être plus radicale que Haussman? n’est que le franc succès d’un progrès qui avaient, rappelonsn’a jamais demandé quoi que ce soit et pourtant lui seul pourra résolver les problèm Ce courant de penser n’avaient en aucun cas pour but de sauver l’humanité et pourtant,  qui aurais-pu être plus radicale que Haussman? n’est que le franc
 
