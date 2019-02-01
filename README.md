@@ -68,7 +68,6 @@ ITS OVER FUCKING BITCH
 </pre>
 <br><br><br>
 ![MacDown logo](example/6.png)
-<br><br><br>
  ![MacDown logo](img/7.png)
 
 <br><br><br>
