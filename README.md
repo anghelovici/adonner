@@ -9,7 +9,7 @@
 
 3.trauire spacialement la liaison, l'application fait un premier trie (le notre) basé sur un chemin, ou étoile (voir plus bas)
 
-Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laisser libre court à l'imagination, cela peut aller de l'application mobile à l'application bien plus performant comme celui de google map par example. Adonner est une application autonome de serveur, elle possède des entrées puis une sortie.. Elle règle les équations d'échange. Le client est lui simple visualiseur.
+Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laisser libre court à l'imagination, cela peut aller de l'application mobile à l'application bien plus performant comme celui de google map par example. Adonner est une application autonome de serveur, elle possède des entrées puis une sortie.. Elle règle les équations d'échange. Le client est lui simple visualiseur. On peut très bien penser un simple renvoie de numéro de téléphone jusqu'à des cartes militaires.
 
 
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
