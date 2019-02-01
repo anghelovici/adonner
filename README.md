@@ -12,6 +12,7 @@ They are for us a sketch of possible answers to a problem: the rescue of citizen
 <br><br><br>
 ![MacDown logo](example/6.png)
  ![MacDown logo](img/7.png)
+ Bois de Boulogn Paris XVI et Capital
 <br>
 <br><br>
 
