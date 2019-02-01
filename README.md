@@ -66,11 +66,12 @@ goal:20->17
 ITS OVER FUCKING BITCH
 ,0,0,0
 </pre>
-
+<br><br><br>
 ![MacDown logo](example/6.png)
+<br><br><br>
  ![MacDown logo](img/7.png)
 
-
+<br><br><br>
 
  Bois de Boulogn Paris XVI et Capital
 <br>example
