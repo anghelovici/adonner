@@ -13,22 +13,39 @@ Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laiss
 
 L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet.
 <pre>
-  L          TE
-    A       A
-      C    V
-       R A
-       DOU
-       LOU
-      REUSE
-      QUE TU
-      PORTES
-    ET QUI T'
-    ORNE O CI
-     VILISÉ
-    OTE-  TU VEUX
-     LA    BIEN
-    SI      RESPI
-            RER       - Apollinaire
+  ** ADONNER REQUEST**
+HAVE(2):ZDB/48.874110864704605/2.296158636504515/3/?/object/5
+object:object
+find:20 request for this object
+quantity:20
+---------------------
+0:u win
+---------------------
+number:0
+id:AHR
+life:1->0
+dist:1.32004735326778
+---------------------
+1:u win
+---------------------
+number:14
+id:BRM
+life:1->0
+dist:0.3387221462495232
+---------------------
+(2): i&u death
+---------------------
+number:13
+id:OVM
+life:1->0
+dist:0.882718714753627
+---------------------
+road_life:,0,0,0
+road:0,14,13
+u accomplish:3
+goal:20->17
+ITS OVER FUCKING BITCH
+,0,0,0
 </pre>
 
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
