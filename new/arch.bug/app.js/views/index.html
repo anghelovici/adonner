@@ -1,0 +1,145 @@
+
+	<!DOCTYPE html>
+
+<link rel="stylesheet" media="screen" type="text/css" title="Exemple" href="/css/style.css"/>
+		
+		
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Travel Modes in Directions</title>
+
+  </head>
+  
+	<div class=tab>
+		
+		<div id=logo>
+		. adonner 
+	
+		</div>
+		
+		<div class="chie">
+	
+		<span id="total">wait...</span>
+			</div>
+			
+		
+		<div class="control">
+			
+	
+		
+  		
+  <select id=distance>
+	    <option value="1">rays (km)</option>
+  <option value="1">1</option>
+  <option value="5">5</option>
+  <option value="10">10</option>
+	  
+</select>	
+
+  <select id=life>
+	    <option value="quantity">life</option>
+  <option value="1">1</option>
+  <option value="3">3</option>
+  <option value="5">5</option>
+  <option value="10">10</option>
+		    <option value="20">20</option>
+		  	    <option value="100">40</option>
+	  
+	  
+	  
+	  
+	  
+</select>
+
+  <select id=object>
+	     <option value="object">object</option>
+  <option value="boat">boat</option>
+		     <option value="army">army</option>
+  <option value="checkpoint">checkpoint</option>
+  <option value="medical">medical</option>
+  <option value="papiertoilette">papier toilette</option>
+</select>
+
+			
+				  <select id=value>
+	     <option value="need">need</option>
+  <option value="have">have</option>
+
+</select>
+			
+		<div >
+			
+				
+
+</div>
+			
+			
+				<button id=reso>RESO</button><button id=clearall>CLEAR</button>
+				<button id=hide>x</button>
+</div>
+		
+
+		
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    <div id="map"></div>
+   
+			
+
+
+        <script src="/socket.io/socket.io.js"></script>
+		
+		
+
+<script>  
+	
+ var socket = io.connect('http://e959189b.ngrok.io:80');
+
+	//on recoit des informations
+	  socket.on('console', function(message) {
+					
+		 
+			});
+	
+
+	
+</script>
+	
+	 <script src="/js/markerclusterer.js"></script>
+	
+	
+	  <script src="/js/adonner.js"></script>
+
+	 
+		
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		
+	
+
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBw4l22xs70zhUcZz30AR6tSOLBvfbyz6I&callback=initMap">
+		
+		
+		
+    </script>
+
+
+  </body>
+</html>
+		
+
+		
+	
+		

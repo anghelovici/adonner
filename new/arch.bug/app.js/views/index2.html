@@ -1,0 +1,239 @@
+<!doctype html>  
+<html lang="en">  
+    <head>
+
+    </head>
+    <body>
+		
+	
+			
+	<div style="width:100%; border-bottom:1px solid black;">
+
+		<div class="idd"></div>
+		
+	<div class="col-6">
+		
+		
+		
+		
+		  adonner
+	
+
+		
+		v.099999
+	
+	</div>
+		
+		<div class="col-6">
+		
+		
+		
+		input channel
+	
+
+	</div>
+		
+		<div class="col-6">
+		
+		
+		
+		the conversation
+	
+	</div>
+		
+		<div class="col-6">
+		
+		
+		
+	the théorical mapping
+	</div>
+		
+		</div>
+		
+		
+	
+	
+	<div class="col-5">
+		
+		
+			
+	
+  <div class="tab">
+	  
+	  
+
+	  
+	  
+	   <select id=select>
+  <option value="1">1</option>
+  <option value="5">5</option>
+  <option value="10">10</option>
+  <option value="20">20</option>
+		    <option value="40">40</option>
+		  	    <option value="100">100</option>
+</select>
+	  
+	   <select id=object>
+  <option value="boat">boat</option>
+		     <option value="army">army</option>
+  <option value="checkpoint">checkpoint</option>
+  <option value="medical">medical</option>
+  <option value="papiertoilette">papier toilette</option>
+</select>
+	  
+	  
+	  
+	  
+	  
+	  	   <button  id="plus">+</button>
+	     <button  id="moin">-</button>
+
+	   <button  id="add-button">add NEED</button>
+	  	   <button  id="have-button">add HAVE</button>
+	   <button  id="move-button">nothing</button>
+
+	  
+	  
+	  	  <button  id="delete-button">delete HAVE</button>
+	   <button  id="delete-button2">delete NEED</button>
+	 
+	  
+	     <select id=type>
+  <option value="star">road</option>
+		     <option value="road">star</option>
+
+</select>
+	  
+	  
+	  
+	  
+	anghelovici@mrself.com
+		<br>
+		<br>
+		u can go to u r site web or use this framework for u r planification of intemperieu can go to u r site web or use this framework for u r planification of intemperieu can go to u r site web or use this framework for u r planification of intemperie
+	<br><br>need:localisation*quantity
+		<br>have:localisation*quantity
+			<br>check:localisation
+	  <br>
+	  <br>
+	  ok thank u for the match
+	
+	</div></div>
+	
+	
+	
+	<div class="col-5">
+	 <div class="controler">
+	  
+   
+		
+		<textarea id=fo class="obs" name="obs"></textarea>
+		
+		
+    <button class="controls" id="custom-button">send</button>
+		
+		
+		 
+		
+	
+	</div></div>
+	
+	
+<div class="col-5">
+
+	
+	
+  <div class="tab">
+	  
+	  
+ 
+	  
+    <div class="consol"> </div>
+  </div>
+	
+	  </div>
+	
+<div class="col-5">
+	
+  <div class="tab">
+    <table>
+      <tr>
+        <td> id </td>
+		    <td> life </td>
+        <td> location </td>
+        <td> quantity </td>
+      
+        <td> solveur </td>
+		   <td> object </td>
+      </tr>
+    </table>
+  </div>
+	
+</div>
+		
+	
+	
+	
+	
+<div id="map"></div>
+		
+<div class="search-box">
+  <input id="pac-input" class="controls" type="text" placeholder="Search Box">
+</div>
+	
+	
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		
+		
+<link rel="stylesheet" media="screen" type="text/css" title="Exemple" href="/css/style.css"/>
+		
+		
+		<script src="/js/markerclusterer.js"></script>
+		
+		
+			<script src="/js/control.js"></script> 
+		<script src="/js/adonner.js"></script>
+	
+		
+		
+		
+        <script src="/socket.io/socket.io.js"></script>
+		
+		
+
+<script>  
+	
+ var socket = io.connect('http://d8cbcab7.ngrok.io:80');
+	
+	
+	
+
+	//on recoit des informations
+	  socket.on('console', function(message) {
+						
+				
+			});
+	
+
+	
+	
+	
+</script>
+		
+		
+		
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBw4l22xs70zhUcZz30AR6tSOLBvfbyz6I&libraries=places&callback=initAutocomplete" async defer></script>
+		
+
+    </body>
+</html>

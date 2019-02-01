@@ -1,0 +1,49 @@
+
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height:100%;
+		  width:100%
+			  
+      }
+a::after {
+  display: none;
+  content: "pseudo block!";
+}
+a:hover::after {
+  display: inline;
+}
+
+
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+ 
+
+.tab div{float:left;}
+
+#logo{width:10%}
+
+.control{width:70%; text-align:right; }
+.chie{width:20%; }
+
+
+
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+	
+	.tab div{float:left;}
+
+#logo{width:30%}
+
+.control{width:100%}
+.chie{width:70%; text-align:right; float:left;}
+	
+	#reso{display:none;}
+	#object{display:none;}
+	
+   /* CSS overrides for mobile here */
+}
