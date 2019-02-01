@@ -21,9 +21,7 @@ They are for us a sketch of possible answers to a problem: the rescue of citizen
 <BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. </p>
  <br><br>
 ![MacDown logo](example/11.png)
- Kerala carte maritime permettant de gérer les angles d'attaques.
   ![MacDown logo](example/9.png)
- Résolution complexe en un seul point type mission de sauvetage de l'armée.
  <pre>
  ** ADONNER REQUEST**
 HAVE(2):ZDB/48.874110864704605/2.296158636504515/3/?/object/5
@@ -60,5 +58,4 @@ goal:20->17
 ITS OVER FUCKING BITCH
 ,0,0,0
 </pre>
- Demande d'application à notre serveur, rien de plus pure.
 
