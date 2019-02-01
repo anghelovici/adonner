@@ -9,9 +9,11 @@
 
 3.trauire spacialement la liaison, l'application fait un premier trie (le notre) basé sur un chemin, ou étoile (voir plus bas)
 
-Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laisser libre court à l'imagination, cela peut aller de l'application mobile à l'application bien plus performant comme celui de google map par example. Adonner est une application autonome de serveur, elle possède des entrées puis une sortie.. Elle règle les équations d'échange. Le client est lui simple visualiseur. On peut très bien penser un simple renvoie de numéro de téléphone jusqu'à des cartes militaires.
+Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laisser libre court à l'imagination, cela peut aller de l'application mobile sms à l'application bien plus performant comme celui de google map par example. Adonner est une application autonome de serveur, elle possède des entrées puis une sortie.. Elle règle les équations d'échange. Le client est lui simple visualiseur. On peut très bien penser un simple renvoie de numéro de téléphone jusqu'à des cartes militaires.
 
 L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet. Nous rendons disponible un système comme uber..
+
+
 
 <pre>
   ** ADONNER REQUEST**
