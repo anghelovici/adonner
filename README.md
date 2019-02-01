@@ -66,7 +66,6 @@ goal:20->17
 ITS OVER FUCKING BITCH
 ,0,0,0
 </pre>
-<br><br><br>
 ![MacDown logo](example/6.png)
  ![MacDown logo](img/7.png)
 
