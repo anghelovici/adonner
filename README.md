@@ -13,7 +13,9 @@ Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laiss
 
 L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet. Nous rendons disponible un système comme uber..
 
+La bdd peut devenir un réell sondage à l'échelle d'un pays puis on peut ensuite terasser le territoire. On peut imaginer un objet dans le channal comme des objets, ainsi l'application devient un genre de chercheur d'aiguille dans une botte de foin. PRENDRE DES BBD ET LES TRADUIRE INSTANTANEMENT
 
+L'application permet de résoudre des problèmes complexe sans démultiplier les appels téléphoniques. L'idée réside dans la centralisation d'action. Il permet de résoudre des problèmes de désorientation.
 
 <pre>
   ** ADONNER REQUEST**
