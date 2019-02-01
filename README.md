@@ -5,7 +5,7 @@
  </p>
 <br><br><br><br><br>
 
- <p align="justify">
+ <p style="text-align:justify">
 1.accumuler les demandes dans une bdd: 1.adonner trie les demandes en fonction de l'objet recherché, de la quantité ainsi que de sa localisation
 
 2.faire entrer l'offre: nous croyons en les bienfaits d'une tension entre ces deux entitées.
