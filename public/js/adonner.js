@@ -1,6 +1,8 @@
  var waypts = [];
 
  var action;
+
+//ARRAY NEED
  var need_statut = "?";
  var need_lat = [];
  var need_lon = [];
@@ -60,26 +62,21 @@ var me=0;
  	//CONTROL
  	$("#need").click(function () {
  		action = "need";
-
  	});
  	$("#have").click(function () {
-
  		varinit = 1;
  		action = "have";
-
  	});
  	$("#check").click(function () {
  		action = "check";
-
  	});
+	 
+	 //INITIALIZE THE VIEWVER
  	$("#clearall").click(function () {
 
  		socket.emit('console', 0);
-
-
-
+		
  		waypts = [];
-
  		need_statut = "?";
  		need_lat = [];
  		need_lon = [];
