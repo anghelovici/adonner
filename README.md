@@ -3,9 +3,14 @@
 <code>have:object:quantity:localisation</code>
 <br><br><br>
 
-1.accumuler les demandes dans une bdd
-2.faire entrer l'offre
-3.trauire spacialement la liaison
+1.accumuler les demandes dans une bdd: 1.adonner trie les demandes en fonction de l'objet recherché, de la quantité ainsi que de sa localisation
+
+2.faire entrer l'offre: nous croyons en les bienfaits d'une tension entre ces deux entitées.
+
+3.trauire spacialement la liaison, l'application fait un premier trie (le notre) basé sur un chemin, ou étoile (voir plus bas)
+
+
+
 
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
 We ended up creating different scenarios. 
