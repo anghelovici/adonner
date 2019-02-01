@@ -1,6 +1,8 @@
  
+ <p align="center">
 <code>need:object:quantity:localisation</code>
-<code>have:object:quantity:localisation<br>:quantity:localisation</code>
+<code>have:object:quantity:localisation</code>
+ </p>
 <br><br><br>
 
 1.accumuler les demandes dans une bdd: 1.adonner trie les demandes en fonction de l'objet recherché, de la quantité ainsi que de sa localisation
