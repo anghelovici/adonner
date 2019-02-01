@@ -14,7 +14,7 @@ Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laiss
 L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet.
 
 
-<code>** ADONNER REQUEST**
+** ADONNER REQUEST**
 HAVE(1):CAL/48.559230727896576/3.3142567956564335/3/?/object/5
 object:object
 find:10 request for this object
@@ -47,7 +47,7 @@ u accomplish:3
 goal:10->7
 ITS OVER FUCKING BITCH
 ,0,0,0
-</code>
+
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
 We ended up creating different scenarios. 
 They are for us a sketch of possi
