@@ -1,9 +1,9 @@
- <br><br>
+ <br><br><br><br><br>
  <p align="center">
 <code>need:object:quantity:localisation</code><br>
 <code>have:object:quantity:localisation</code>
  </p>
-<br><br><br>
+<br><br><br><br><br><br>
 
  <p align="justify">
 1.accumuler les demandes dans une bdd: 1.adonner trie les demandes en fonction de l'objet recherché, de la quantité ainsi que de sa localisation
@@ -28,7 +28,6 @@ They are for us a sketch of possi
 We ended up creating different scenarios. 
 They are for us a sketch of possible answers to a problem: the rescue of citizens. 
 <BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. </p>
-<br><br><br>
 
 <pre>
   ** ADONNER REQUEST**
@@ -73,7 +72,7 @@ ITS OVER FUCKING BITCH
 
  Bois de Boulogn Paris XVI et Capital
 <br>example
-<br><br>
+
 
 sons maintenant dans un monde qui est dit de malade. Nous n’avons pas eut l’opportunité de décider. Cette homme n’a jamais demandé quoi que ce soit et pourtant lui seul pourra résolver les problèm Ce courant de penser n’avaient en aucun cas pour but de sauver l’humanité et pourtantt,  
 
