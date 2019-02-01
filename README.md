@@ -4,7 +4,7 @@
 <code>have:object:quantity:localisation</code>
  </p>
 <br><br><br>
-
+ <p align="justify">
 1.accumuler les demandes dans une bdd: 1.adonner trie les demandes en fonction de l'objet recherché, de la quantité ainsi que de sa localisation
 
 2.faire entrer l'offre: nous croyons en les bienfaits d'une tension entre ces deux entitées.
@@ -17,6 +17,8 @@ L'intérêt réside dans sa conception et sa manière de voire le trie, le momen
 
 La bdd peut devenir un réell sondage à l'échelle d'un pays puis on peut ensuite terasser le territoire. On peut imaginer un objet dans le channal comme des objets, ainsi l'application devient un genre de chercheur d'aiguille dans une botte de foin. PRENDRE DES BBD ET LES TRADUIRE INSTANTANEMENT
 
+Algorithme de djerkersta
+
 L'application permet de résoudre des problèmes complexe sans démultiplier les appels téléphoniques. L'idée réside dans la centralisation d'action. Il permet de résoudre des problèmes de désorientation.
 
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
@@ -24,7 +26,7 @@ We ended up creating different scenarios.
 They are for us a sketch of possi
 We ended up creating different scenarios. 
 They are for us a sketch of possible answers to a problem: the rescue of citizens. 
-<BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. 
+<BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. </p>
 <br><br><br>
  ![MacDown logo](img/7.png)
 <pre>
