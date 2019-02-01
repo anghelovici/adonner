@@ -12,6 +12,8 @@
 Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laisser libre court à l'imagination, cela peut aller de l'application mobile à l'application bien plus performant comme celui de google map par example. Adonner est une application autonome de serveur, elle possède des entrées puis une sortie.. Elle règle les équations d'échange. Le client est lui simple visualiseur. On peut très bien penser un simple renvoie de numéro de téléphone jusqu'à des cartes militaires.
 
 L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet.
+
+ ![MacDown logo](img/8.png)
 <pre>
   ** ADONNER REQUEST**
 HAVE(2):ZDB/48.874110864704605/2.296158636504515/3/?/object/5
@@ -56,7 +58,6 @@ They are for us a sketch of possible answers to a problem: the rescue of citizen
 <BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. 
 <br><br><br>
 ![MacDown logo](example/6.png)
- ![MacDown logo](img/8.png)
  ![MacDown logo](img/7.png)
  Bois de Boulogn Paris XVI et Capital
 <br>example
