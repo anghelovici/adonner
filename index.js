@@ -21,7 +21,7 @@ var con = mysql.createConnection({
 
 
 var googleMapsClient = require('@google/maps').createClient({
-	key: 'AIzaSyBw4l22xs70zhUcZz30AR6tSOLBvfbyz6I'
+	key: 'YOUR API KEY'
 });
 
 var road_life = "";
@@ -35,16 +35,12 @@ var need_message = [];
 var need_adress = [];
 var life_text;
 var result_comp=0;
-
 var result_accomplish;
-
 var complete=0;
 
 
 var need_life_start = [];
-
 var have_road_life = [];
-
 
 var have_lat = [];
 var have_lon = [];
@@ -69,7 +65,6 @@ con.connect(function (err) {
 	if (err) throw err;
 	console.log("");
 	console.log("**ADONNER.COM IS UP**");
-
 	console.log("anghelovici thomas, anouck Daguin, tefeil Jean");
 
 
@@ -79,8 +74,6 @@ con.connect(function (err) {
 
 
 		console.log("---------------------");
-
-
 		console.log("lecture bdd réussie" + resultat);
 		for (var a = 0; a < resultat; a++) {
 
@@ -122,7 +115,9 @@ con.connect(function (err) {
 		socket.on('console', function (message) {
 
 			if (message == "0") {
+				
 				console.log("deletbbd");
+				
 				con.query("TRUNCATE TABLE bdd_have");
 				con.query("TRUNCATE TABLE bdd_need");
 
