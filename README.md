@@ -14,40 +14,6 @@ Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laiss
 L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet.
 
 
-** ADONNER REQUEST**
-HAVE(1):CAL/48.559230727896576/3.3142567956564335/3/?/object/5
-object:object
-find:10 request for this object
-quantity:10
----------------------
-0:u win
----------------------
-number:20
-id:VLR
-life:1->0
-dist:1.070904951228482
----------------------
-1:u win
----------------------
-number:24
-id:HII
-life:1->0
-dist:0.4477152284648732
----------------------
-(2): i&u death
----------------------
-number:18
-id:LCY
-life:1->0
-dist:0.32664198137799894
----------------------
-road_life:,0,0,0
-road:20,24,18
-u accomplish:3
-goal:10->7
-ITS OVER FUCKING BITCH
-,0,0,0
-
 Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=#>communication between</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. 
 We ended up creating different scenarios. 
 They are for us a sketch of possi
