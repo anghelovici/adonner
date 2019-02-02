@@ -6,7 +6,7 @@
 <br><br><br><br><br>
 
  <p align="justify">
-1.accumuler les demandes dans une bdd: 1.adonner trie les demandes en fonction de l'objet recherché, de la quantité ainsi que de sa localisation 2.faire entrer l'offre: nous croyons en les bienfaits d'une tension entre ces deux entitées.3.trauire spacialement la liaison, l'application fait un premier trie (le notre) basé sur un chemin, ou étoile (voir plus bas) Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laisser libre court à l'imagination, cela peut aller de l'application mobile sms à l'application bien plus performant comme celui de google map par example. Adonner est une application autonome de serveur, elle possède des entrées puis une sortie.. Elle règle les équations d'échange. Le client est lui simple visualiseur. On peut très bien penser un simple renvoie de numéro de téléphone jusqu'à des cartes militaires.
+1.accumuler les demandes dans une bdd: 1.adonner trie les demandes en fonction de l'objet recherché, de la quantité ainsi que de sa localisation 2.faire entrer l'offre: nous croyons en les bienfaits d'une tension entre ces deux entitées.3.trauire spacialement la liaison, l'ap23.pngplication fait un premier trie (le notre) basé sur un chemin, ou étoile (voir plus bas) Nous fournissons ici simplement l'algorithme de trie, il s'agit ensuite de laisser libre court à l'imagination, cela peut aller de l'application mobile sms à l'application bien plus performant comme celui de google map par example. Adonner est une application autonome de serveur, elle possède des entrées puis une sortie.. Elle règle les équations d'échange. Le client est lui simple visualiseur. On peut très bien penser un simple renvoie de numéro de téléphone jusqu'à des cartes militaires.
 </p>
 
  <p align="justify">
@@ -22,6 +22,6 @@ They are for us a sketch of possible answers to a problem: the rescue of citizen
  <br><br>
   ![MacDown logo](example/9.png)
    ![MacDown logo](example/17.png)
-   ![MacDown logo](example/23.png)
+   ![MacDown logo](img/23.png)
 
 
