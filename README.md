@@ -11,11 +11,11 @@
 
  <p align="justify">img
 L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet. Nous rendons disponible un système comme uber.. La bdd peut devenir un réell sondage à l'échelle d'un pays puis on peut ensuite terasser le territoire. On peut imaginer un objet dans le channal comme des objets, ainsi l'application devient un genre de chercheur d'aiguille dans une botte de foin. PRENDRE DES BBD ET LES TRADUIRE INSTANTANEMENT Une première passe est effectuer <a href=/example>déployement</a>  par le théorème d'Algorithme de djerkersta, mais il est possible de s'imaginer tout un autre processus, comme celui d'un unique pythagore par le point d'entrée. Libre à l'utilisateur de modifier son protocole. L'application permet de résoudre des problèmes complexe sans démultiplier les appels téléphoniques. L'idée réside dans la centralisation d'action. Il permet de résoudre des problèmes de désorientation.
-</p>  <br><br><br><br><br>
+</p>  <br><br><br>
 
    ![MacDown logo](example/44.png)
    <br><br><br><br><br>
- Il est nécéssaire d'installer au préalable sur le package, express, iosocket. Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=/example>screenshot</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. We ended up creating different scenarios. They are for us a sketch of possi We ended up creating different scenarios. 
+ <p align="justify"> Il est nécéssaire d'installer au préalable sur le package, express, iosocket. Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=/example>screenshot</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. We ended up creating different scenarios. They are for us a sketch of possi We ended up creating different scenarios. </p> 
 
  
  <p align="justify">
