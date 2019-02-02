@@ -21,7 +21,7 @@ They are for us a sketch of possible answers to a problem: the rescue of citizen
 <BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. </p>
  <br><br>
   ![MacDown logo](example/9.png)
-   ![MacDown logo](example/17.png)
+   ![MacDown logo](img/17.png)
    ![MacDown logo](example/15.png)
 
 
