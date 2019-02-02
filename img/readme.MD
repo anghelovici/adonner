@@ -1,2 +1,2 @@
 hello
-<img src="1.jpg">
+<img src="1.png">
