@@ -17,7 +17,9 @@
 <img src="example/square.png">
  <br>
 
- 
+  <p align="justify"> L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnalement ce n'est qu'un simple moteur de recherche par la proximité et l'objet. Nous rendons disponible un système comme uber.. La bdd peut devenir un réell sondage à l'échelle d'un pays puis on peut ensuite terasser le territoire. On peut imaginer un objet dans le cpels téléphoniques. L'idée réside dans la centralisation d'action. Il permet de résoudre des problèmes de désorientation. </p> 
+  
+   <p align="justify"> L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue, trie les messages. Finnal le cpels téléphoniques. L'idée réside dans la centralisation d'action. Il permet de résoudre des problèmes de désorientation. </p> 
 
 
 
