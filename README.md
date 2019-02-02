@@ -22,8 +22,8 @@ They are for us a sketch of possible answers to a problem: the rescue of citizen
  <br><br>
    ![MacDown logo](example/34.jpg)
   ![MacDown logo](example/30.jpg)
-    ![MacDown logo](example/17.png)
     ![MacDown logo](img/23.jpg)
+ ![MacDown logo](example/17.png)
       ![MacDown logo](example/29.jpg)
 
 
