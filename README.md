@@ -12,8 +12,8 @@ Les numéros d'urgences sont, à proprement parler une source d'information crou
 
 </p>
  <p align="justify"> C'est ici que les chemin se croisent et se décroisent, si il réside une certaine fixation de programme, en revanche, celle-ci permet de mettre en relation les personnes actives sur le terrain. Si ce lien est fait tout devient alors possible, dresser une carte militaire comme un renvoie d'une simple donnée.</p> <br>
- (1).Inondations en Inde: des pêcheurs célébrés en héros pour leur précieux secours - Le point -  22/08/2018 <br>
- (2). L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue.<br>
+ (1).Inondations en Inde: des pêcheurs célébrés en héros pour leur précieux secours - Le point - 2018 <br>
+ (2). Amrita Helpline to the Rescue of Kerala Flood-Hit  - The Indu - 2018<br>
  (3). L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue.<br>
  (4). L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue.<br>
 <br>
