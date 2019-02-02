@@ -7,5 +7,5 @@
 <img src="30.jpg"><br><br>
 2.with one passe: adonner<br><br>
 <img src="13.png">
-<img src="2.jpg">
+<img src="2.png">
 
