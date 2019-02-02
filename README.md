@@ -14,7 +14,7 @@ Les numéros d'urgences sont, à proprement parler une source d'information crou
  <p align="justify"> C'est ici que les chemin se croisent et se décroisent, si il réside une certaine fixation de programme, en revanche, celle-ci permet de mettre en relation les personnes actives sur le terrain. Si ce lien est fait tout devient alors possible, dresser une carte militaire comme un renvoie d'une simple donnée.</p> <br>
  (1). Inondations en Inde: des pêcheurs célébrés en héros pour leur précieux secours - Le point - 2018 <br>
  (2). Amrita Helpline to the Rescue of Kerala Flood-Hit  - The Indu - 2018<br>
- (3). All project - Urban Risk Lab MIT <br>
+ (3). All project - Urban Risk Lab MIT 2010 - 2020 <br>
  (4). Ushahidi en Haïti : encore des leçons à tirer - Françoise de Blomac - 2012<br>
 <br>
 <img src="example/square.png">
