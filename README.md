@@ -19,8 +19,9 @@ Il est nécéssaire d'installer au préalable sur le package, express, iosocket.
  
 They are for us a sketch of possible answers to a problem: the rescue of citizens. 
 <BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. </p>
- <br><br>
+ <br><br> <br><br>
    ![MacDown logo](example/44.png)
+ Il est nécéssaire d'installer au préalable sur le package, express, iosocket. Our questioning was based on fields’ analysis, on scientific data and on testimonials. The aim of this was to find a solution which would allow to establish a simple and effective <a href=/example>screenshot</a> the different actors of the field in case of a disaster. allow to establish a simple and effective communication between the different actors of the field in case of a disaster. We ended up creating different scenarios. They are for us a sketch of possi We ended up creating different scenarios. 
 
 
 
