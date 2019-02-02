@@ -19,5 +19,5 @@ Les numéros d'urgences sont, à proprement parler une source d'information crou
  (5). Algorithme du plus court chemin - EPFL - Laboratoire Transport et Mobilite ́ - ENAC - 2010
 <br><br>
 <img src="example/square.png">
-(1). L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue.
+(0).Affichage d'une deuxième passe: réalisé par directionServices de google map, permet de résolver des itinéraires précis.
  
