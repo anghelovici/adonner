@@ -20,7 +20,7 @@ Il est nécéssaire d'installer au préalable sur le package, express, iosocket.
 They are for us a sketch of possible answers to a problem: the rescue of citizens. 
 <BR><BR>Our work process can be summarized by constant back and forth between our work and the reality of the fields/the references. We decided to divide it in 4 stages; an analysis, two of storyboarding and one of embodiment. </p>
  <br><br>
-  ![MacDown logo](example/30.png)
+  ![MacDown logo](example/30.jpg)
    ![MacDown logo](example/17.png)
    ![MacDown logo](img/23.jpg)
       ![MacDown logo](example/29.jpg)
