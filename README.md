@@ -16,6 +16,7 @@ Les numéros d'urgences sont, à proprement parler une source d'information crou
  (2). Amrita Helpline to the Rescue of Kerala Flood-Hit  - The Indu - 2018<br>
  (3). All project - Urban Risk Lab MIT 2010 - 2020 <br>
  (4). Ushahidi en Haïti : encore des leçons à tirer - Françoise de Blomac - 2012<br>
+ (5). Algorithme du plus court chemin - EPFL - Laboratoire Transport et Mobilite ́ - ENAC - 2010
 <br>
 <img src="example/square.png">
 (1). L'intérêt réside dans sa conception et sa manière de voire le trie, le moment où il évacue.
