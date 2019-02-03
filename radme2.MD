@@ -5,6 +5,33 @@
  </p>
 <br><br><br><br><br>
 
+A.introduction
+A.1.problématique
+A.2.ca permet quoi
+
+B.faire le lien
+B.1.need
+B.1.1.temporaire
+B.1.2.mysql
+B.2.have
+B.2.1.quantité
+B.2.2.objet
+B.2.3.localisation
+B.2.3.1.étoile
+B.2.3.2.djerkesta
+
+C.représenter le lien
+C.1.on en sort quoi
+C.2.custom
+C.2.1.hight tech
+C.2.2.low tech
+
+D.déployement
+D.0. qu'est ce qu'il faut
+D.1.serveur
+D.2.client
+
+
 adonner permet gérer les flux d’échanges entre des proies et prédateurs dans des contextes où elles seraient nombreuses, complexe et rapide. Le projet s'articule autour d'une application <b>server</b> qui gère les transactions entre les acteurs et d'une autre qui permet de retranscrire, communiquer les liaisons. 
 
 Dans un premier temps les proies s’inscrivent en prenant le soin de se quantifier, de se localiser dans un repère x et y et d'indiquer ce qu'il souhaite trouver dans tableau (array) dynamique. Puis, Les prédateurs, qui sont des individus temporaires (variable), viennent défigurer cette base de donnée jusqu’à éradiquer la moindre demande.
