@@ -84,11 +84,12 @@ L'application client est quand à elle beaucoup plus fléxible, il est possible 
 
 B.2. faire le lien<br>
 
+
+B.2.2. need<br>
+
 <code> need(objet, quantity, localisation);</code>
 
 ici tu envoie au serveur une demande
-
-B.2.2. need<br>
 
 <br>
 B.2.2. have<br>
