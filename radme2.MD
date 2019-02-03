@@ -16,20 +16,22 @@
  </li>
  
  <li>B.faire le lien
+ <ul><li>B.1.deux fonctions essentielles</li></ul>
+ 
  <ul>
- <li>B.1.need<ul>
- <li>B.1.1.temporaire</li>
- <li>B.1.2.mysql</li>
+ <li>B.2.need<ul>
+ <li>B.2.1.temporaire</li>
+ <li>B.2.2.mysql</li>
   </ul>
   </li>
   
- <li>B.2.have
+ <li>B.3.have
  <ul>
- <li>B.2.1.quantité</li>
- <li>B.2.2.objet</li>
- <li>B.2.3.localisation</li>
- <li>B.2.3.1.étoile</li>
- <li>B.2.3.2.djerkesta</li>
+ <li>B.3.1.quantité</li>
+ <li>B.3.2.objet</li>
+ <li>B.3.3.localisation</li>
+ <li>B.3.3.1.étoile</li>
+ <li>B.3.3.2.djerkesta</li>
  </ul>
   </li>
  
