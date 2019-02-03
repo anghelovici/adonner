@@ -40,9 +40,11 @@
  <ul>
  
  <li>C.1.on en sort quoi</li>
- <li>C.2.custom</li>
+ <li>C.2.custom<ul>
  <li>C.2.1.hight tech</li>
- <li>C.2.2.low tech</li>
+ <li>C.2.2.low tech</li></ul>
+ 
+ </li>
  </ul>
  
  </li>
