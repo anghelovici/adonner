@@ -14,7 +14,8 @@
  <li>A.2.ca permet quoi</li>
  </ul>
  </li>
- <li>B.faire le lien</li>
+ <li>
+ <ul>B.faire le lien
  <li>B.1.need</li>
  <li>B.1.1.temporaire</li>
  <li>B.1.2.mysql</li>
@@ -24,7 +25,8 @@
  <li>B.2.3.localisation</li>
  <li>B.2.3.1.étoile</li>
  <li>B.2.3.2.djerkesta</li>
-
+ </ul>
+</li>
  <li>C.représenter le lien</li>
  <li>C.1.on en sort quoi</li>
  <li>C.2.custom</li>
