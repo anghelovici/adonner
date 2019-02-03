@@ -7,11 +7,13 @@
 
 
 <ul>
+ <li> <li>A.introduction</li>
+<ul>
 
- <li>A.introduction</li>
  <li>A.1.problématique</li>
  <li>A.2.ca permet quoi</li>
-
+ </ul>
+ </li>
  <li>B.faire le lien</li>
  <li>B.1.need</li>
  <li>B.1.1.temporaire</li>
