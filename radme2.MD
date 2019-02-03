@@ -5,31 +5,35 @@
  </p>
 <br><br><br><br><br>
 
-A.introduction
-A.1.problématique
-A.2.ca permet quoi
 
-B.faire le lien
-B.1.need
-B.1.1.temporaire
-B.1.2.mysql
-B.2.have
-B.2.1.quantité
-B.2.2.objet
-B.2.3.localisation
-B.2.3.1.étoile
-B.2.3.2.djerkesta
+<ul>
 
-C.représenter le lien
-C.1.on en sort quoi
-C.2.custom
-C.2.1.hight tech
-C.2.2.low tech
+ <li>A.introduction</li>
+ <li>A.1.problématique</li>
+ <li>A.2.ca permet quoi</li>
 
-D.déployement
-D.0. qu'est ce qu'il faut
-D.1.serveur
-D.2.client
+ <li>B.faire le lien</li>
+ <li>B.1.need</li>
+ <li>B.1.1.temporaire</li>
+ <li>B.1.2.mysql</li>
+ <li>B.2.have</li>
+ <li>B.2.1.quantité</li>
+ <li>B.2.2.objet</li>
+ <li>B.2.3.localisation</li>
+ <li>B.2.3.1.étoile</li>
+ <li>B.2.3.2.djerkesta</li>
+
+ <li>C.représenter le lien</li>
+ <li>C.1.on en sort quoi</li>
+ <li>C.2.custom</li>
+ <li>C.2.1.hight tech</li>
+ <li>C.2.2.low tech</li>
+
+ <li>D.déployement</li>
+ <li>D.0. qu'est ce qu'il faut</li>
+ <li>D.1.serveur</li>
+ <li>D.2.client</li>
+</ul>
 
 
 adonner permet gérer les flux d’échanges entre des proies et prédateurs dans des contextes où elles seraient nombreuses, complexe et rapide. Le projet s'articule autour d'une application <b>server</b> qui gère les transactions entre les acteurs et d'une autre qui permet de retranscrire, communiquer les liaisons. 
