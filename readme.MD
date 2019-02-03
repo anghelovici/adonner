@@ -88,9 +88,9 @@ L'application client est quand à elle beaucoup plus fléxible, il est possible 
 
 B.2. faire le lien<br>
 
-<code><pre>var rays=3
+<code>var rays=3
 var ii=3;
-</pre>
+
 
 </code>
 
