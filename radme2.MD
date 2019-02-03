@@ -11,6 +11,10 @@ Le projet s'articule autour d'une application server qui gère les transactions,
 
 L'application client est quand à elle beaucoup plus fléxible, il est possible de s'imaginer toute sorte de scénarios, de programme. Nous proposons dans le package un example: celui de retranscrire ces transactions sur une carte à l'aide de l'api google.map. Il nous permet ainsi de retourner des itinéraires propre à la demande. Mais il serait tout à fait possible de s'imaginer par example un simple renvoie textuel indiquant par example le message de la demande.
 
+<br><br>
+<img src="example/square.png">
+(0).Affichage d'une deuxième passe: réalisé par directionServices de google map, permet de résolver des itinéraires précis.
+
 1.installation
 
 
