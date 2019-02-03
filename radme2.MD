@@ -9,7 +9,7 @@ adonner permet gérer les flux d’échanges entre proies et prédateurs. Elle p
 
 Le projet s'articule autour d'une application server qui gère les transactions, elle est écrite à l'aide de Node et de diverses modules. Le socle est un tableau (array) dynamique dans lequel les proies s’inscrivent en prenant le soin de se quantifier, de se localiser dans un repère x et y et d'indiquer ce qu'il souhaite trouver. Les têtes sont des individus temporaires (variable) qui viennent défigurer cette base de donnée jusqu’à éradiquer la moindre demande. En même temps que d’apparaitre ou disparaitre, d’agir ou de déconstruire, le serveur n’est pas seul à écouter ces transformations. Chacun est miste au courant. (broadcast).
 
-L'application client est quand à elle beaucoup plus fléxible, il est possible de s'imaginer toute sorte de scénarios, de programme. Nous proposons dans le package un example: celui de retranscrire ces transactions sur une carte à l'aide de l'api google.map. Il nous permet ainsi de retourner des itinéraires propre à la demande. Mais il serait tout à fait possible de s'imaginer par example un simple renvoie textuel indiquant par example le message de la demande.
+L'application client est quand à elle beaucoup plus fléxible, il est possible de s'imaginer toute sorte de scénarios, de programme. Nous proposons dans le package un example: celui de retranscrire ces transactions sur une carte à l'aide de l'api google.map. Il nous permet ainsi de retourner des itinéraires propre à la demande. Mais il serait tout à fait possible de s'imaginer par example un simple renvoie textuel indiquant par example le message de la demande d'où l'idée de dévlopper ce projet en open-source.
 
 <br><br>
 <img src="example/square.png">
