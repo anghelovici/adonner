@@ -87,16 +87,12 @@ L'application client est quand à elle beaucoup plus fléxible, il est possible 
 
 
 D.2. Déployement<br>
+
+
+<code>var rays=3, ii=3; </code>
+
+
 D.2.Client<br>
-
-<code>var rays=3
-var ii=3;
-
-
-</code>
-
-
-
 B.2.2. need<br>
 
 dans la localisation tu peux très bien mettre des coordoonées latlng comme <code>40.434,30.3403</code> ou bien une adresse purement textuelle <code>Reims, france</code>
