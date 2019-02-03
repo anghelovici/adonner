@@ -86,7 +86,8 @@ L'application client est quand à elle beaucoup plus fléxible, il est possible 
 <br>
 
 
-B.2. faire le lien<br>
+D.2. Déployement<br>
+D.2.Client<br>
 
 <code>var rays=3
 var ii=3;
