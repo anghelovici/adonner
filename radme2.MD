@@ -36,16 +36,25 @@
  
  </ul>
 </li>
- <li>C.représenter le lien</li>
+ <li>C.représenter le lien
+ <ul>
+ 
  <li>C.1.on en sort quoi</li>
  <li>C.2.custom</li>
  <li>C.2.1.hight tech</li>
  <li>C.2.2.low tech</li>
+ </ul>
+ 
+ </li>
 
- <li>D.déployement</li>
+ <li>D.déployement
+ <ul>
  <li>D.0. qu'est ce qu'il faut</li>
  <li>D.1.serveur</li>
  <li>D.2.client</li>
+ </ul>
+ </li>
+ 
 </ul>
 
 
