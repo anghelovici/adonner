@@ -79,6 +79,11 @@ En même temps que d’apparaitre ou disparaitre, d’agir ou de déconstruire, 
 
 L'application client est quand à elle beaucoup plus fléxible, il est possible de s'imaginer toute sorte de scénarios, de programme. Nous proposons dans le package un example: celui-ci retranscrit ces transactions sur une carte à l'aide de l'api google.map. Il nous permet ainsi de retourner des itinéraires propre à la demande. Mais il serait tout à fait possible de s'imaginer par example un simple renvoie textuel indiquant par example le message de la demande d'où l'idée de dévlopper ce projet en open-source.
 
+<br>
+
+B.2. faire le lien<br>
+
+La quantité est l'élément de saturation, celui qui permet la non harcélisation souvent décriée dans ces stratégies, ici, l'annonce disparaît immédiatement la quantité close. Nous apprécions cette fonction et l'imaginons comme des proies et prédateurs. Comme si il y aurait un stock de nourriture à épuiser en un point ou si il y aurait une multitude de choses à détruire dissimilue sur un territoire. L'objet ouvre diverses channel, comme des lieux de discussions ou s'articule et se rencontre les choses, c'est comme une superposition de couches laissant aucun1e place à un conflit possible. Et, enfin la proximité est un élément clef de condition, c'est en éméttant un périmétre que l'algorithme se place sur l'individu. C'est ici que réside la fin de notre application, nous, nous proposons simplement la premiere passe, c'est à dire un simple algorithme de proximité : de direction (djerkeasta) ou celui de l'étoile où il est recherche constamment en se référant à un même point. 
 
 
 
