@@ -16,9 +16,11 @@
  </li>
  <li>
  <ul>B.faire le lien
- <li>B.1.need</li>
+ <li><ul>B.1.need
  <li>B.1.1.temporaire</li>
  <li>B.1.2.mysql</li>
+  </ul>
+  </li>
  <li>B.2.have</li>
  <li>B.2.1.quantité</li>
  <li>B.2.2.objet</li>
