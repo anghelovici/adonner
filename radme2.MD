@@ -10,12 +10,13 @@
  <li> A.introduction
 <ul>
 
- <li>A.1.problématique</li>
- <li>A.2.ca permet quoi</li>
+   <li>A.1.problématique</li>
+   <li>A.2.ca permet quoi</li>
  </ul>
  </li>
- <li>
- <ul>B.faire le lien
+ 
+ <li>B.faire le lien
+ <ul>
  <li><ul>B.1.need
  <li>B.1.1.temporaire</li>
  <li>B.1.2.mysql</li>
