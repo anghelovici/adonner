@@ -7,7 +7,7 @@
 
 
 <ul>
- <li> <b>A.introduction</b>
+ <li>A.introduction
 <ul>
 
    <li>A.1.problématique</li>
