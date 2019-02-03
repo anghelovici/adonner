@@ -86,6 +86,8 @@ B.2. faire le lien<br>
 
 
 B.2.2. need<br>
+
+dans la localisation tu peux très bien mettre une <code>40.434,30.3403</code> comme une adresse purement textuelle <code>Reims, france</code>
  
  <code> need(object,quantity,localisation); <code>
  ici tu envoie au serveur une demande</code></code>
