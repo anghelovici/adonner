@@ -107,7 +107,9 @@ La quantité est l'élément de saturation, celui qui permet la non harcélisati
 E.1 source<br>
 https://www.twilio.com/docs/sms/tutorials/how-to-send-sms-messages-node-js<br>
 https://nodejs.org/en/<br>
-https://expressjs.com
+https://expressjs.com<br>
+https://socket.io<br>
+https://cloud.google.com/maps-platform/?hl=fr
 
 <br><br>
 <img src="example/square.png">
