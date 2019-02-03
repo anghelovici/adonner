@@ -81,7 +81,13 @@ L'application client est quand à elle beaucoup plus fléxible, il est possible 
 
 <br>
 
+
 B.2. faire le lien<br>
+
+B.2.2. need<br>
+
+<br>
+B.2.2. have<br>
 
 La quantité est l'élément de saturation, celui qui permet la non harcélisation souvent décriée dans ces stratégies, ici, l'annonce disparaît immédiatement la quantité close. Nous apprécions cette fonction et l'imaginons comme des proies et prédateurs. Comme si il y aurait un stock de nourriture à épuiser en un point ou si il y aurait une multitude de choses à détruire dissimilue sur un territoire. L'objet ouvre diverses channel, comme des lieux de discussions ou s'articule et se rencontre les choses, c'est comme une superposition de couches laissant aucun1e place à un conflit possible. Et, enfin la proximité est un élément clef de condition, c'est en éméttant un périmétre que l'algorithme se place sur l'individu. C'est ici que réside la fin de notre application, nous, nous proposons simplement la premiere passe, c'est à dire un simple algorithme de proximité : de direction (djerkeasta) ou celui de l'étoile où il est recherche constamment en se référant à un même point. 
 
