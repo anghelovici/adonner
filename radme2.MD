@@ -5,9 +5,11 @@
  </p>
 <br><br><br><br><br>
 
-adonner permet gérer les flux d’échanges entre proies et prédateurs dans des contextes où elles seraient nombreuses, complexe et rapide. Le projet s'articule autour d'une application <b>server</b> qui gère les transactions entre les acteurs.
+adonner permet gérer les flux d’échanges entre proies et prédateurs dans des contextes où elles seraient nombreuses, complexe et rapide. Le projet s'articule autour d'une application <b>server</b> qui gère les transactions entre les acteurs et d'une autre qui permet de retranscrire ces liaisons. 
 
-Son socle est un tableau (array) dynamique dans lequel les proies s’inscrivent en prenant le soin de se quantifier, de se localiser dans un repère x et y et d'indiquer ce qu'il souhaite trouver. Les têtes sont des individus temporaires (variable) qui viennent défigurer cette base de donnée jusqu’à éradiquer la moindre demande. En même temps que d’apparaitre ou disparaitre, d’agir ou de déconstruire, le serveur n’est pas seul à écouter ces transformations. Chacun est mise au courant.
+Les proies s’inscrivent en prenant le soin de se quantifier, de se localiser dans un repère x et y et d'indiquer ce qu'il souhaite trouver dans tableau (array) dynamique. Les prédateurs sont des individus temporaires (variable) qui viennent défigurer cette base de donnée jusqu’à éradiquer la moindre demande.
+
+En même temps que d’apparaitre ou disparaitre, d’agir ou de déconstruire, le serveur n’est pas seul à écouter ces transformations. Chacun est mise au courant.
 
 L'application client est quand à elle beaucoup plus fléxible, il est possible de s'imaginer toute sorte de scénarios, de programme. Nous proposons dans le package un example: celui-ci retranscrit ces transactions sur une carte à l'aide de l'api google.map. Il nous permet ainsi de retourner des itinéraires propre à la demande. Mais il serait tout à fait possible de s'imaginer par example un simple renvoie textuel indiquant par example le message de la demande d'où l'idée de dévlopper ce projet en open-source.
 
