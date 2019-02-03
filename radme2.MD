@@ -15,7 +15,7 @@
  </ul>
  </li>
  
- <li>B.faire le lien
+ <li>B.faire le lien: deux fonctions essentielles
  <ul>
  <li>B.1.need<ul>
  <li>B.1.1.temporaire</li>
