@@ -65,9 +65,9 @@
 
 <br><br><br><br><br>
 
-<ul> <li>A.2.
+<ul> A.2. permet quoi<li>
 adonner permet gérer les flux d’échanges entre des proies et prédateurs dans des contextes où elles seraient nombreuses, complexe et rapide. Le projet s'articule autour d'une application <b>server</b> qui gère les transactions entre les acteurs et d'une autre qui permet de retranscrire, communiquer les liaisons. 
-  <li></ul>
+  </li></ul>
 
 Dans un premier temps les proies s’inscrivent en prenant le soin de se quantifier, de se localiser dans un repère x et y et d'indiquer ce qu'il souhaite trouver dans tableau (array) dynamique. Puis, Les prédateurs, qui sont des individus temporaires (variable), viennent défigurer cette base de donnée jusqu’à éradiquer la moindre demande.
 
