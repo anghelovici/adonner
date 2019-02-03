@@ -77,8 +77,6 @@ adonner permet gérer les flux d’échanges entre des proies et prédateurs dan
  Les prédateurs n'ont plus besoin de communiquer entre eux, ils n'ont qu'à se laisser guider par l'application qui permet elle d'organiser au mieux que possible les interventions. Ainsi d’éviter la désorientation, les oublies ou les doublons. 
 
 
-<img src="example/2.png">
-
 Dans un premier temps les proies s’inscrivent en prenant le soin de se quantifier, de se localiser dans un repère x et y et d'indiquer ce qu'il souhaite trouver dans tableau (array) dynamique. Puis, Les prédateurs, qui sont des individus temporaires (variable), viennent défigurer cette base de donnée jusqu’à éradiquer la moindre demande.
 
 En même temps que d’apparaitre ou disparaitre, d’agir ou de déconstruire, le serveur n’est pas seul à écouter ces transformations. Chacun est mise au courant. 
@@ -89,6 +87,13 @@ L'application client est quand à elle beaucoup plus fléxible, il est possible 
 
 
 B.2. faire le lien<br>
+
+<code><pre>var rays=3
+var ii=3;
+</pre>
+
+</code>
+
 
 
 B.2.2. need<br>
