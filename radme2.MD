@@ -87,8 +87,8 @@ B.2. faire le lien<br>
 
 B.2.2. need<br>
 
-<code> io.socket.emit('need', 'objet:quantity:localisation') <code>
-ici tu envoie au serveur une demande
+<code> io.socket.emit('need', 'objet:quantity:localisation'); <code>
+ ici tu envoie au serveur une demande</code></code>
 
 <br>
 B.2.2. have<br>
