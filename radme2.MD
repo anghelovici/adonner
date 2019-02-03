@@ -65,9 +65,8 @@
 
 <br><br><br><br><br>
 
-A.2. permet quoi
- 
-------------
+A.2. permet quoi<br>
+
 adonner permet gérer les flux d’échanges entre des proies et prédateurs dans des contextes où elles seraient nombreuses, complexe et rapide. Le projet s'articule autour d'une application <b>server</b> qui gère les transactions entre les acteurs et d'une autre qui permet de retranscrire, communiquer les liaisons. 
  Les prédateurs n'ont plus besoin de communiquer entre eux, ils n'ont qu'à se laisser guider par l'application qui permet elle d'organiser au mieux que possible les interventions. Ainsi d’éviter la désorientation, les oublies ou les doublons. 
 
