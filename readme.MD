@@ -92,7 +92,7 @@ L'application client est quand à elle beaucoup plus fléxible, il est possible 
 D.2. Déployement<br>
 D.2.Serveur<br>
 
-<code>var rays=3, ii=3; </code>
+<code>var rays_max=3 </code>
 
 
 D.2.Client<br>
