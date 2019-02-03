@@ -92,9 +92,9 @@ L'application client est quand à elle beaucoup plus fléxible, il est possible 
 D.2. Déployement<br>
 D.2.Serveur<br>
 
-<code>$ npm install save --express --google.map -- </code>
-<code>var search_type="star"; </code>
-<code>var rays_max=3; </code>
+<code>$ npm install save --express --google.map -- </code><br>
+<code>var search_type="star"; </code><br>
+<code>var rays_max=3; </code><br>
 
 
 D.2.Client<br>
