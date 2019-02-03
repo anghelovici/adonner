@@ -17,8 +17,3 @@ Les prédateurs n'ont plus besoin de communiquer entre eux, ils n'ont qu'à se l
 <img src="example/square.png">
 (0).Affichage d'une deuxième passe: réalisé par directionServices de google map, permet de résolver des itinéraires précis.
 
-1.installation
-
-
-2.<a href="www.adonner.mrself.com">déployement typique</a>
-3.examples
