@@ -84,6 +84,10 @@ L'application client est quand à elle beaucoup plus fléxible, il est possible 
 
 B.2. faire le lien<br>
 
+<code> need(objet, quantity, localisation);</code>
+
+ici tu envoie au serveur une demande
+
 B.2.2. need<br>
 
 <br>
