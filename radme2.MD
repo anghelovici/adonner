@@ -22,12 +22,18 @@
  <li>B.1.2.mysql</li>
   </ul>
   </li>
- <li>B.2.have</li>
+  
+ <li>B.2.have
+ <ul>
  <li>B.2.1.quantité</li>
  <li>B.2.2.objet</li>
  <li>B.2.3.localisation</li>
  <li>B.2.3.1.étoile</li>
  <li>B.2.3.2.djerkesta</li>
+ </ul>
+  </li>
+ 
+ 
  </ul>
 </li>
  <li>C.représenter le lien</li>
