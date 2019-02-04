@@ -106,7 +106,7 @@ dans la localisation tu peux très bien mettre des coordoonées latlng comme <co
  ici tu envoie au serveur une demande</code></code><br>
  
   <code> need.on({make anything}; </code><br>
-    <code>10,30,1/2/9/2</code>
+    <code>1/2/9/2</code>
 
 <br>
 B.2.2. have<br>
